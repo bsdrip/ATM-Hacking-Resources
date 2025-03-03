@@ -40,3 +40,5 @@ void setup() {
 void loop() {
 }
 ```
+
+The `DigiKeyboard.h` was modified based on [this image](https://user-images.githubusercontent.com/105805614/187154741-442ef53d-9aaf-45a6-9be6-37a1aa3fc4cd.jpg). You can extend it freely.
